@@ -31,7 +31,7 @@ const config: Config = {
   ],
   themeConfig: {
     navbar: {
-      title: 'Proyecto McDonald’s',
+      title: 'Data Consulting',
       logo: {
         alt: 'Data Consulting',
         src: 'img/logoup.jpg',

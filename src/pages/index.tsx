@@ -65,7 +65,8 @@ export default function Home(): JSX.Element {
                   alt="Juan"
                   className={styles.teamImage}
                 />
-                <h3>Líder de Proyecto</h3>
+                <h3 className={styles.teamName}>Juan Rodriguez</h3>
+                <h4 className={styles.teamRole}>Líder de Proyecto</h4> 
                 <p>Coordinador y estratega del equipo.</p>
               </div>
               {/* Daniel */}
@@ -75,7 +76,8 @@ export default function Home(): JSX.Element {
                   alt="Daniel"
                   className={styles.teamImage}
                 />
-                <h3>Analista de Datos</h3>
+                <h3 className={styles.teamName}>Daniel Cardozo</h3>
+                <h4 className={styles.teamRole}>Analista de Datos</h4>
                 <p>Especialista en Geohash y visualización de datos.</p>
               </div>
               {/* Ricardo */}
@@ -85,7 +87,8 @@ export default function Home(): JSX.Element {
                   alt="Ricardo"
                   className={styles.teamImage}
                 />
-                <h3>Ingeniero de Machine Learning</h3>
+                <h3 className={styles.teamName}>Ricardo Urrutia</h3>
+                <h4 className={styles.teamRole}>Ingeniero de Machine Learning</h4>
                 <p>Diseño de modelos predictivos y proyecciones.</p>
               </div>
             </div>
@@ -97,7 +100,8 @@ export default function Home(): JSX.Element {
                   alt="Deybert"
                   className={styles.teamImage}
                 />
-                <h3>Desarrollador Backend</h3>
+                <h3 className={styles.teamName}>Deybert Sanchez</h3>
+                <h4 className={styles.teamRole}>Desarrollador Backend</h4>
                 <p>Procesamiento de datos y ETL.</p>
               </div>
               {/* Felipe */}
@@ -107,7 +111,8 @@ export default function Home(): JSX.Element {
                   alt="Felipe"
                   className={styles.teamImage}
                 />
-                <h3>Especialista en Visualización</h3>
+                <h3 className={styles.teamName}>Felipe Rodriguez</h3>
+                <h4 className={styles.teamRole}>Especialista en Visualización</h4>
                 <p>Diseño de dashboards y storytelling visual.</p>
               </div>
             </div>
