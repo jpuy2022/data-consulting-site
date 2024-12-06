@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmcdonalds_project=self.webpackChunkmcdonalds_project||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/data-consulting-site/blog","blogTitle":"Blog","authorsListPath":"/data-consulting-site/blog/authors"}')}}]);
