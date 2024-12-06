@@ -12,6 +12,7 @@ const sidebars: SidebarsConfig = {
         'arquitectura', // docs / aquitectura.md
         'mapas-calor', // docs/mapas-calor.md
         'machine-learning', // docs/machine-learning.md
+        'predicciones', // docs/prediccion.md
         'dashboard', // docs/dashboard.md
         'ubicacion-recomendada', // docs/ubicacion-recomendada.md
       ],
