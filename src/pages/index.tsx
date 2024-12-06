@@ -61,7 +61,7 @@ export default function Home(): JSX.Element {
               {/* Juan */}
               <div className="col col--4">
                 <img
-                  src="/img/juan.jpg"
+                  src="/data-consulting-site/img/juan.jpg"
                   alt="Juan"
                   className={styles.teamImage}
                 />
@@ -71,7 +71,7 @@ export default function Home(): JSX.Element {
               {/* Daniel */}
               <div className="col col--4">
                 <img
-                  src="/img/daniel.jpeg"
+                  src="/data-consulting-site/img/daniel.jpeg"
                   alt="Daniel"
                   className={styles.teamImage}
                 />
@@ -81,7 +81,7 @@ export default function Home(): JSX.Element {
               {/* Ricardo */}
               <div className="col col--4">
                 <img
-                  src="/img/ricardo.jpeg"
+                  src="/data-consulting-site/img/ricardo.jpeg"
                   alt="Ricardo"
                   className={styles.teamImage}
                 />
@@ -93,7 +93,7 @@ export default function Home(): JSX.Element {
               {/* Deybert */}
               <div className="col col--6">
                 <img
-                  src="/img/deybert.jpeg"
+                  src="/data-consulting-site/img/deybert.jpeg"
                   alt="Deybert"
                   className={styles.teamImage}
                 />
@@ -103,7 +103,7 @@ export default function Home(): JSX.Element {
               {/* Felipe */}
               <div className="col col--6">
                 <img
-                  src="/img/felipe.jpeg"
+                  src="/data-consulting-site/img/felipe.jpeg"
                   alt="Felipe"
                   className={styles.teamImage}
                 />

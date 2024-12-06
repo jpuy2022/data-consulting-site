@@ -2,13 +2,13 @@ import type {Config} from '@docusaurus/types';
 import {themes as prismThemes} from 'prism-react-renderer';
 
 const config: Config = {
-  title: 'Proyecto McDonald’s',
+  title: 'Data Consulting',
   tagline: 'Soluciones basadas en datos para el retail',
   favicon: 'img/favicon.ico',
   url: 'https://tu-sitio-ejemplo.com',
-  baseUrl: '/',
-  organizationName: 'tu-usuario', // Cambia esto por tu usuario de GitHub
-  projectName: 'mcdonalds-project', // Cambia esto por el nombre del repo
+  baseUrl: '/data-consulting-site/',
+  organizationName: 'jpuy2022', // Cambia esto por tu usuario de GitHub
+  projectName: 'data-consulting-site', // Cambia esto por el nombre del repo
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   i18n: {
@@ -21,7 +21,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/tu-usuario/mcdonalds-project/edit/main/',
+          editUrl: 'https://github.com/jpuy2022/data-consulting-site/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -44,7 +44,7 @@ const config: Config = {
           label: 'Documentación',
         },
         {
-          href: 'https://github.com/tu-usuario/mcdonalds-project',
+          href: 'https://github.com/jpuy2022/data-consulting-site',
           label: 'GitHub',
           position: 'right',
         },
@@ -67,12 +67,12 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/tu-usuario/mcdonalds-project',
+              href: 'https://jpuy2022.github.io/data-consulting-site/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Proyecto McDonald’s.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Data Consulting.`,
     },
     prism: {
       theme: prismThemes.github,
