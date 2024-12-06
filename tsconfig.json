@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ESNext",
+    "moduleResolution": "node",          // Cambia de 'classic' a 'node'
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,           // Soporte para importar JSON
+    "jsx": "react"
+  },
+  "include": [
+    "src/**/*",
+    "docusaurus.config.ts",
+    "sidebars.ts"
+  ]
+}
