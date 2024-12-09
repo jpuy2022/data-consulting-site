@@ -2,7 +2,13 @@
 
 ## Bienvenida
 ¡Bienvenidos al informe del Proyecto Nueva Sucursal McDonald’s!  
-Nuestro equipo se especializa en análisis de datos y soluciones innovadoras para el sector retail. Este proyecto tiene como objetivo identificar las mejores ubicaciones para nuevas sucursales de McDonald’s en Buenos Aires, utilizando herramientas avanzadas como:
+Nuestro equipo se especializa en análisis de datos y soluciones innovadoras para el sector retail. Este proyecto tiene como objetivo identificar las mejores ubicaciones para nuevas sucursales de McDonald’s en Buenos Aires.
+
+
+![](/img/mcdonalds-sucursal.jpg)
+
+
+Utilizando herramientas avanzadas como:
 
 - **Geohash:** Para dividir la ciudad en zonas clave basadas en datos geográficos.
 - **Mapas de Calor:** Para visualizar patrones de aglomeración.
