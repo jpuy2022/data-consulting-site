@@ -85,7 +85,8 @@ p {
 
 .logo-container {
   background-color: #f8f9fa; /* Fondo claro */
-  padding: 20px; /* Espaciado alrededor del logo */
+  padding: 15px; /* Espaciado alrededor del logo */
+  max-width: 2px;
   border-radius: 10px; /* Bordes redondeados */
   text-align: center; /* Centrado del contenido */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra elegante */
@@ -94,7 +95,7 @@ p {
 .logo-container img {
   display: block; /* Centrar imagen */
   margin: 0 auto; /* Centrar en el contenedor */
-  max-width: 300px; /* Tamaño máximo */
+  max-width: 1px; /* Tamaño máximo */
   height: auto; /* Mantener proporciones */
   transition: transform 0.3s ease, box-shadow 0.3s ease; /* Efecto de transición */
 }
@@ -109,4 +110,22 @@ p {
   color: #343a40; /* Color del texto */
   margin-top: 10px; /* Separación de la imagen */
   font-size: 1.5rem; /* Tamaño del texto */
+}
+
+.gracias-logo img {
+  display: flex; /* Centrar la imagen */
+  justify-content: center;
+  align-items: center; 
+  max-width: 150px; /* Reduce aún más el ancho máximo */
+  max-height: 150px; /* Limita la altura máxima */
+  height: auto; /* Mantener las proporciones */
+}
+
+.small-image {
+  display: inline-block; 
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: auto;
+  margin: 0 auto;
 }
