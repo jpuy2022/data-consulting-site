@@ -19,7 +19,7 @@ Si tienen preguntas o comentarios, este es el momento perfecto para discutirlas.
 ¡Esperamos colaborar con ustedes para seguir transformando datos en resultados!
 
 ### **Data Consulting**
-![](/data-consulting-site/img/data-consulting.logo.jpeg)
+![](/data-consulting-site/img/data-consulting-logo.jpeg)
 
 ---
 
