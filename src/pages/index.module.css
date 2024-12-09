@@ -13,6 +13,7 @@
 .heroSubtitle {
   font-size: 1.5rem;
   margin-top: 1rem;
+  color: #ffffff;
 }
 
 .buttons {
@@ -80,4 +81,32 @@ p {
   font-weight: normal;
   color: #555;
   margin: 5px 0 10px;
+}
+
+.logo-container {
+  background-color: #f8f9fa; /* Fondo claro */
+  padding: 20px; /* Espaciado alrededor del logo */
+  border-radius: 10px; /* Bordes redondeados */
+  text-align: center; /* Centrado del contenido */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra elegante */
+}
+
+.logo-container img {
+  display: block; /* Centrar imagen */
+  margin: 0 auto; /* Centrar en el contenedor */
+  max-width: 300px; /* Tamaño máximo */
+  height: auto; /* Mantener proporciones */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Efecto de transición */
+}
+
+.logo-container img:hover {
+  transform: scale(1.1); /* Efecto de aumento */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Sombra más pronunciada */
+}
+
+.logo-title {
+  font-family: 'Montserrat', sans-serif; /* Fuente moderna */
+  color: #343a40; /* Color del texto */
+  margin-top: 10px; /* Separación de la imagen */
+  font-size: 1.5rem; /* Tamaño del texto */
 }
