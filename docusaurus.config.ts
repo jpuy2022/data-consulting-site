@@ -58,7 +58,7 @@ const config: Config = {
           items: [
             {
               label: 'Reporte Tableau',
-              href: 'https://public.tableau.com/app/profile/daniel.cardozo4509/viz/Pre-entre-integrador/Dashboard1',
+              href: 'https://public.tableau.com/app/profile/daniel.cardozo4509/viz/V2_Dashboard_data_consulting/DataConsulting-Subte?publish=yes',
             },
           ],
         },
