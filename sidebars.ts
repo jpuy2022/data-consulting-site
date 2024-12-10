@@ -10,6 +10,7 @@ const sidebars: SidebarsConfig = {
         'introduccion', // docs/introduccion.md
         'geohash', // docs/geohash.md
         'arquitectura', // docs / aquitectura.md
+        'etl-turno', // docs / etl-turno.md
         'mapas-calor', // docs/mapas-calor.md
         'machine-learning', // docs/machine-learning.md
         'predicciones', // docs/prediccion.md

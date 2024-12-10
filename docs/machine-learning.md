@@ -24,6 +24,10 @@ Proyección de flujo en estaciones principales durante la temporada alta:
 ### Visualización del Flujo por Período
 
 El siguiente gráfico muestra la comparación del flujo promedio por estación y período:
-![Flujo Promedio por Período](/img/flujo-promedio-periodos.png)
+![Flujo Promedio por Período](/img/flujo-subte.png)
+
+
+El siguiente gráfico muestra la comparación del flujo vehicular y período:
+![Flujo Promedio por Período](/img/flujo-vehicular.png)
 
 ---
