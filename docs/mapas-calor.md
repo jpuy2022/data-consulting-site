@@ -17,5 +17,4 @@ A partir de los datos del sistema de transporte público de Buenos Aires, genera
 
 Estos mapas validan la ubicación estratégica de zonas ideales para sucursales rápidas y convenientes como McDonald’s. Ahora exploremos cómo proyectamos estos datos hacia el futuro.
 
-
-_link tableu_: 'https://public.tableau.com/app/profile/daniel.cardozo4509/viz/V2_Dashboard_data_consulting/DataConsulting-Subte?publish=yes',
+[_link tableu_](https://public.tableau.com/app/profile/daniel.cardozo4509/viz/V2_Dashboard_data_consulting/DataConsulting-Subte?publish=yes)
