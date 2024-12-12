@@ -25,6 +25,7 @@ Se realizaron análisis predictivos con Machine Learning, destacando los siguien
 
 ## Recomendaciones Estratégicas
 - Establecer promociones durante el período **"afternoon"** para incrementar el engagement en las horas con menor flujo.
+- Tener mayor personal en el turno matutino para atender la mayor demanda.
 - Incorporar señalización llamativa y accesible desde las entradas principales.
 - Colaborar con comercios locales para generar sinergias en horarios de mayor movimiento.
 
