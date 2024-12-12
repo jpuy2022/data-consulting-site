@@ -1,47 +1,32 @@
----
-sidebar_label: "Ubicación Recomendada"
----
+# Ubicación Recomendada: Constitución
 
-# **Ubicación Recomendada: Estación Constitución**
+La estación de Constitución es la ubicación ideal para establecer un nuevo punto de contacto, según el análisis realizado. Esta conclusión se basa en los datos de flujo de pasajeros recolectados durante el año 2023, evaluando múltiples factores clave:
 
-## **¿Por qué Constitución?**
+## Datos Principales
+- **Flujo promedio de pasajeros:** 40,560 por día (en horas pico).
+- **Mayor afluencia:** Período **"morning"** con el 45% del total diario.
+- **Población activa cercana:** Alta densidad en horarios laborales debido a la interconexión con transporte interurbano.
 
-La Estación Constitución se posiciona como la mejor opción para abrir una nueva sucursal debido a:
+## Ventajas Competitivas
+1. **Conectividad:** Constitución conecta varias líneas de subte (C, E y trenes), lo que garantiza un flujo constante y diverso de pasajeros.
+2. **Afluencia Demográfica:** Mezcla de trabajadores, estudiantes y residentes, proporcionando una base sólida para cualquier tipo de negocio.
+3. **Acceso Estratégico:** Nodo central de transporte que conecta con el interior de Buenos Aires y la Provincia. Proximidad a avenidas principales y transporte público.
 
-1. **Alto Flujo de Pasajeros:**
-   - **Promedio diario superior a 200,000 pasajeros en horarios pico.**
-   - Es el punto de mayor convergencia de las líneas de subte, trenes y colectivos.
-2. **Conexión Estratégica:**
-   - Nodo central de transporte que conecta con el interior de Buenos Aires y la Provincia.
-3. **Datos Proyectados:**
-   - El modelo de **machine learning Random Forest** predice un flujo promedio de **40,560 pasajeros matutinos** y **110,170 vespertinos** para días laborales.
+## Visualizaciones
+Se realizaron análisis predictivos con Machine Learning, destacando los siguientes resultados:
 
----
+1. **Flujo promedio diario por período del día:**
+![Gráfico de barra](/img/GRAFICO_DE_BARRAS.png)
 
-### **Comparación con Otras Estaciones**
-
-El siguiente gráfico ilustra cómo el flujo de pasajeros en Constitución supera significativamente al de otras estaciones clave como Retiro y San Pedrito:
-
-![Flujo de Pasajeros: Constitución vs Otras Estaciones](/img/flujo-constitucion-vs-otras.png)
+2. **Comparativa de flujo entre estaciones con alta afluencia:**
+![Gráfico comparativo](/img/GRAFICO_COMPARATIVO.png)
 
 ---
 
-### **Análisis de Apoyo**
+## Recomendaciones Estratégicas
+- Establecer promociones durante el período **"afternoon"** para incrementar el engagement en las horas con menor flujo.
+- Incorporar señalización llamativa y accesible desde las entradas principales.
+- Colaborar con comercios locales para generar sinergias en horarios de mayor movimiento.
 
-#### **Resultados del Modelo de Machine Learning**
-Basándonos en datos de todo el año 2023:
-- **Constitución** lidera en flujo total y consistencia durante horarios clave.
-- Las proyecciones destacan su potencial para mantener el tráfico elevado incluso durante períodos de baja temporada.
-
-#### **Ventaja Competitiva**
-- Ubicación ideal para atender tanto a pasajeros locales como a los provenientes de otras regiones.
-- Alto impacto para estrategias como promociones y menús rápidos.
-
----
-
-### **Propuesta**
-
-Recomendamos establecer la sucursal en **Constitución** debido a su posición estratégica y alto volumen de pasajeros. Para maximizar los beneficios:
-- **Promociones Dirigidas:** Enfocarse en horarios pico y días laborales.
-- **Infraestructura Eficiente:** Diseñar el local para manejar altos volúmenes de clientes.
-- **Horario Extendido:** Captar tráfico matutino temprano y vespertino tardío.
+## Conclusión
+La estación Constitución, con un flujo diario estimado en más de 40,000 pasajeros en horarios pico, representa una oportunidad estratégica para maximizar el alcance y la visibilidad de tu negocio.
